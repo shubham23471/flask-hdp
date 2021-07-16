@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<!--File Created By SMS Backup & Restore v10.10.001 on 07/03/2021 00:11:59-->
+<!--
+
+To view this file in a more readable format, visit https://synctech.com.au/view-backup/
+
+-->
+<smses count="3589" backup_set="2c1da312-dcb3-4211-9825-a9d9c36880d1" backup_date="1615056117836" type="full">
+  <sms protocol="0" address="+917503056282" date="1541650124905" type="1" subject="null" body="Mai 53 me hu jb niklna ho toh bta deo" toa="null" sc_toa="null" service_center="null" read="1" status="-1" locked="0" date_sent="1541650122000" sub_id="-1" readable_date="Nov 8, 2018 09:38:44" contact_name="Aksh" />
+  <sms protocol="0" address="+917503056282" date="1541650139282" type="1" subject="null" body="Haldiram se sweets lleni h bhai" toa="null" sc_toa="null" service_center="null" read="1" status="-1" locked="0" date_sent="1541650138000" sub_id="-1" readable_date="Nov 8, 2018 09:38:59" contact_name="Aksh" />
+  <mms date="1612090227000" rr="null" sub="" rcs_conversation_id="null" rcs_message_id="null" rcs_entry_raw="null" rcs_message_type="0" rcs_alias_name="null" ct_t="text/plain" read_status="null" rcs_timestamp_delivered="0" seen="1" msg_box="1" address="+919935478359" sub_cs="106" resp_st="null" retr_st="null" d_tm="null" text_only="1" exp="null" locked="0" m_id="null" st="null" retr_txt_cs="null" rcs_contribution_id="null" retr_txt="null" creator="com.google.android.apps.messaging" date_sent="1612090227" read="1" m_size="null" rpt_a="null" ct_cls="135" pri="null" sub_id="-1" tr_id="null" rcs_extra="0" resp_txt="null" ct_l="null" rcs_delivered_to="null" rcs_displayed_to="null" m_cls="null" d_rpt="null" v="null" m_type="132" rcs_timestamp_displayed="0" readable_date="Jan 31, 2021 16:20:27" contact_name="Vishwajeet W">
+    <parts>
+      <part seq="0" ct="text/plain" name="body" chset="null" cd="null" fn="null" cid="null" cl="null" ctt_s="null" ctt_t="null" text="abhi call kr raha hu" rcs_message_id="null" rcs_delivered_to="null" rcs_extra="0" rcs_message_type="0" rcs_timestamp_delivered="0" rcs_timestamp_displayed="0" rcs_entry_raw="null" rcs_displayed_to="null" rcs_alias_name="null" />
+    </parts>
+    <addrs>
+      <addr address="+919935478359" type="137" charset="106" />
+      <addr address="+919935478359" type="151" charset="106" />
+    </addrs>
+  </mms>
+  <mms date="1612090362000" rr="129" sub="null" rcs_conversation_id="null" rcs_message_id="null" rcs_entry_raw="null" rcs_message_type="0" rcs_alias_name="null" ct_t="application/vnd.wap.multipart.related" read_status="null" rcs_timestamp_delivered="0" seen="1" msg_box="2" address="+919935478359" sub_cs="null" resp_st="null" retr_st="null" d_tm="null" text_only="1" exp="604800" locked="0" m_id="null" st="null" retr_txt_cs="null" rcs_contribution_id="null" retr_txt="null" creator="com.google.android.apps.messaging" date_sent="0" read="1" m_size="5" rpt_a="null" ct_cls="135" pri="129" sub_id="-1" tr_id="T1775812cd70" rcs_extra="0" resp_txt="null" ct_l="null" rcs_delivered_to="null" rcs_displayed_to="null" m_cls="personal" d_rpt="129" v="18" m_type="128" rcs_timestamp_displayed="0" readable_date="Jan 31, 2021 16:22:42" contact_name="Vishwajeet W">
+    <parts>
+      <part seq="-1" ct="application/smil" name="null" chset="null" cd="null" fn="null" cid="&lt;smil&gt;" cl="smil.xml" ctt_s="null" ctt_t="null" text='&lt;smil&gt;&lt;head&gt;&lt;layout&gt;&lt;root-layout/&gt;&lt;region id="Text" top="0" left="0" height="100%" width="100%"/&gt;&lt;/layout&gt;&lt;/head&gt;&lt;body&gt;&lt;par dur="5000ms"&gt;&lt;text src="text000001.txt" region="Text" /&gt;&lt;/par&gt;&lt;/body&gt;&lt;/smil&gt;' rcs_message_id="null" rcs_delivered_to="null" rcs_extra="0" rcs_message_type="0" rcs_timestamp_delivered="0" rcs_timestamp_displayed="0" rcs_entry_raw="null" rcs_displayed_to="null" rcs_alias_name="null" />
+      <part seq="0" ct="text/plain" name="null" chset="106" cd="null" fn="null" cid="&lt;text000001&gt;" cl="text000001.txt" ctt_s="null" ctt_t="null" text="Okay " rcs_message_id="null" rcs_delivered_to="null" rcs_extra="0" rcs_message_type="0" rcs_timestamp_delivered="0" rcs_timestamp_displayed="0" rcs_entry_raw="null" rcs_displayed_to="null" rcs_alias_name="null" />
+    </parts>
+    <addrs>
+      <addr address="+919773539888" type="137" charset="106" />
+      <addr address="9935478359" type="151" charset="106" />
+    </addrs>
+  </mms>
+</smses>

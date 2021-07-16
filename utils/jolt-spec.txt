@@ -1,0 +1,42 @@
+[{
+	"operation": "shift",
+	"spec": {
+		"protocol": "protocol",
+		"address": "sender_number",
+		"date": "date_epoch",
+		"type": "type",
+		"body": "msg_body",
+		"service_center": "service_centre_number",
+		"read": "read",
+		"date_sent": "date_sent_epoch",
+		"sub_id": -1,
+		"readable_date": "readable_date",
+		"contact_name": "contact_name"
+	}
+}]
+=================
+{
+  "protocol" : 0,
+  "sender_number" : 917503056282,
+  "date_epoch" : 1541650124905,
+  "type" : 1,
+  "msg_body" : "Mai 53 me hu jb niklna ho toh bta deo",
+  "service_centre_number" : "null",
+  "read" : 1,
+  "date_sent_epoch" : 1541650122000,
+  "sub_id" : -1,
+  "readable_date" : "Nov 8, 2018 09:38:44",
+  "contact_name" : "Aksh"
+}
+
+=========
+${'protocol'},${'sender_number'},${'date_epoch'},${'type'},${'msg_body'},${'service_centre_number'},${'read'},${'date_sent_epoch'},${'sub_id'},${'readable_date'},${'contact_name'}
+
+==========
+${readable_date:replace(',', '')}
+
+==
+${'protocol'},${'sender_number'},${'date_epoch'},${'type'},${'msg_body'},${'service_centre_number'},${'read'},${'date_sent_epoch'},${'sub_id'},${'readable_date'},${'contact_name'}
+
+====
+protocol,sender_number,date_epoch,type,msg_body,service_centre_number,read,date_sent_epoch,sub_id,readable_date,contact_name
